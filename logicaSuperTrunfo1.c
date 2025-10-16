@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Desafio Super Trunfo - Países
+// Nível Aventureiro
+
 int main() {
     // Dados das Cartas
     // Carta 1

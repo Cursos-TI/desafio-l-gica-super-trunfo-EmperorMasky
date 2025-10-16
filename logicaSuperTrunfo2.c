@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
-// Nível Novato
+// Nível Mestre
 
 int main() {
     // Dados da Carta 1
@@ -84,3 +84,4 @@ int main() {
 
     return 0;
 }
+ 
